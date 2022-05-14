@@ -1,0 +1,9 @@
+5/14/2022 - Sci Comp final project
+
+example code to run
+(Sage w/ jyp notebook)
+
+import math
+def f(x):
+    return math.tan(x**2 +2*x +1)
+derivative(f,0, 8)
